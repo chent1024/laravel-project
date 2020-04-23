@@ -1,4 +1,4 @@
-### Init laravel project
+### Init laravel project with larave-admin
 
     import ./database/laravel.sql
    
