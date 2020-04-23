@@ -1,7 +1,7 @@
 {
     "name": "chent/laravel-project",
     "type": "project",
-    "description": "Init laravel project.",
+    "description": "Init laravel5.8.* project with encore/laravel-admin.",
     "keywords": [
         "framework",
         "laravel"
